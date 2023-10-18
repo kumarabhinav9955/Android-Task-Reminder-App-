@@ -1,6 +1,9 @@
 ![1 new](https://github.com/kumarabhinav9955/Android-Task-Reminder-App-/assets/75555908/83120cb5-2d2e-4b55-97fe-7d62e0392323)
 ![2 new](https://github.com/kumarabhinav9955/Android-Task-Reminder-App-/assets/75555908/a37c8f97-e51d-4d04-8003-a6a16eab9502)
 
+
+
+
 Project Overview: Android Task Reminder App
 
 This project is focused on developing a Task Scheduler application for Android using a combination of essential tools and concepts in Android app development.
